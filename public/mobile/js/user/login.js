@@ -35,7 +35,7 @@ $(function(){
                     }
                     /*2.首页*/
                     else{
-                        location.href = '/m/user/index.html';
+                        location.href = '/m/user/login.html';
                     }
                 }else{
                     mui.toast('登录失败！');
